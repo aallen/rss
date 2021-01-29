@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://aallen.github.io/rss/tal.xml" rel="self" type="application/rss+xml" />
+        <title>This American Life</title>
+        <link>https://www.thisamericanlife.org</link>
+        <description>This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast. It is hosted by Ira Glass, produced in collaboration with Chicago Public Media, delivered to stations by PRX The Public Radio Exchange, and has won all of the major broadcasting awards.</description>
+        <language>en</language>
+        <copyright>Copyright 1995-2020 This American Life</copyright>
+        <itunes:author>This American Life</itunes:author>
+        <itunes:subtitle>This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast.</itunes:subtitle>
+        <itunes:owner> <itunes:email>rich@thislife.org</itunes:email> </itunes:owner>
+        <itunes:category text="Society &amp; Culture" />
+        <itunes:category text="Arts" />
+        <itunes:category text="News"> <itunes:category text="Politics" /></itunes:category>
+        <itunes:image href="https://files.thisamericanlife.org/sites/all/themes/thislife/img/tal-name-1400x1400.png" />
+        <item>
+            <title><![CDATA[489: No Coincidence, No Story!]]></title>
+            <link>https://www.thisamericanlife.org/489/no-coincidence-no-story</link>
+            <description><![CDATA[We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!]]></description>
+            <pubDate>Fri, 01 Mar 2013 12:00:00 -0500</pubDate>
+            <guid isPermaLink="false">489</guid>
+            <enclosure url="http://assets.thisamericanlife.co/podcasts/489.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/489.jpg" />
+            <itunes:subtitle><![CDATA[We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!]]></itunes:subtitle>
+            <itunes:summary><![CDATA[We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!]]></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[513: 129 Cars]]></title>
+            <link>https://www.thisamericanlife.org/513/129-cars</link>
+            <description><![CDATA[One car dealership tries to sell 129 cars. It is way more chaotic than we expected.]]></description>
+            <pubDate>Fri, 13 Dec 2013 12:00:00 -0500</pubDate>
+            <guid isPermaLink="false">513</guid>
+            <enclosure url="http://assets.thisamericanlife.co/podcasts/513.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/513.jpg" />
+            <itunes:subtitle><![CDATA[One car dealership tries to sell 129 cars. It is way more chaotic than we expected.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[One car dealership tries to sell 129 cars. It is way more chaotic than we expected.]]></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[206: Somewhere in the Arabian Sea]]></title>
+            <link>https://www.thisamericanlife.org/206/somewhere-in-the-arabian-sea</link>
+            <description><![CDATA[Life aboard an aircraft carrier stationed in the Arabian Sea supporting bombing missions over Afghanistan.]]></description>
+            <pubDate>Fri, 01 Mar 2002 12:00:00 -0500</pubDate>
+            <guid isPermaLink="false">206</guid>
+            <enclosure url="http://assets.thisamericanlife.co/podcasts/206.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/206.jpg" />
+            <itunes:subtitle><![CDATA[Life aboard an aircraft carrier stationed in the Arabian Sea supporting bombing missions over Afghanistan.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Life aboard an aircraft carrier stationed in the Arabian Sea supporting bombing missions over Afghanistan.]]></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[664: The Room of Requirement]]></title>
+            <link>https://www.thisamericanlife.org/664/the-room-of-requirement</link>
+            <description><![CDATA[Stories of people who roam the stacks and find unexpected things that just happen to be exactly what they required.]]></description>
+            <pubDate>Fri, 28 Dec 2018 12:00:00 -0500</pubDate>
+            <guid isPermaLink="false">664</guid>
+            <enclosure url="http://assets.thisamericanlife.co/podcasts/664.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/664.jpg" />
+            <itunes:subtitle><![CDATA[Stories of people who roam the stacks and find unexpected things that just happen to be exactly what they required.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Stories of people who roam the stacks and find unexpected things that just happen to be exactly what they required.]]></itunes:summary>
+        </item>
+    </channel>
+</rss>
