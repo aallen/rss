@@ -97,4 +97,5 @@
             <itunes:summary><![CDATA[Stories about being little. Secret writings in tiny letters. The power of a very small number. And a medication that's supposed to cure shortness.]]></itunes:summary>
         </item>
     </channel>
+    <atom:link href="https://aallen.github.io/rss/tal.xml" rel="self" type="application/rss+xml" />
 </rss>
