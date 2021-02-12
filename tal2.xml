@@ -14,18 +14,6 @@
         <itunes:category text="News"> <itunes:category text="Politics" /></itunes:category>
         <itunes:image href="https://files.thisamericanlife.org/sites/all/themes/thislife/img/tal-name-1400x1400.png" />
         <item>
-            <title><![CDATA[489: No Coincidence, No Story!]]></title>
-            <link>https://www.thisamericanlife.org/489/no-coincidence-no-story</link>
-            <description><![CDATA[We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!]]></description>
-            <pubDate>Fri, 01 Mar 2013 12:00:00 -0500</pubDate>
-            <guid isPermaLink="false">489</guid>
-            <enclosure url="http://assets.thisamericanlife.co/podcasts/489.mp3" type="audio/mpeg" />
-            <itunes:author><![CDATA[This American Life]]></itunes:author>
-            <itunes:image href="https://stream.thisamericanlife.org/489/3Ua_jB-EI-E8hgVwhfIWcy6ynt-aH2vHuIedoB0spj8/489.mp3" />
-            <itunes:subtitle><![CDATA[We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!]]></itunes:subtitle>
-            <itunes:summary><![CDATA[We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!]]></itunes:summary>
-        </item>
-        <item>
             <title><![CDATA[513: 129 Cars]]></title>
             <link>https://www.thisamericanlife.org/513/129-cars</link>
             <description><![CDATA[One car dealership tries to sell 129 cars. It is way more chaotic than we expected.]]></description>
@@ -72,6 +60,42 @@
             <itunes:image href="http://assets.thisamericanlife.co/images/550.jpg" />
             <itunes:subtitle><![CDATA[What happens when of a group of public school students in the Bronx goes to visit an elite private school three miles away.]]></itunes:subtitle>
             <itunes:summary><![CDATA[What happens when of a group of public school students in the Bronx goes to visit an elite private school three miles away.]]></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[218: Act V]]></title>
+            <link>https://www.thisamericanlife.org/218/act-v</link>
+            <description><![CDATA[A group of inmates at a high-security prison stage a production of the last act of Hamlet.]]></description>
+            <pubDate>Fri, 09 Aug 2002 12:00:00 -0400</pubDate>
+            <guid isPermaLink="false">218</guid>
+            <enclosure url="https://stream.thisamericanlife.org/218/oHYNTsWgbTvki6PmJ5hijRUOicU-FkteBt3wQ8-WrjU/218.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/218.jpg" />
+            <itunes:subtitle><![CDATA[A group of inmates at a high-security prison stage a production of the last act of Hamlet.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[A group of inmates at a high-security prison stage a production of the last act of Hamlet.]]></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[266: I'm From the Private Sector and I'm Here to Help]]></title>
+            <link>https://www.thisamericanlife.org/266/im-from-the-private-sector-and-im-here-to-help</link>
+            <description><![CDATA[Nancy Updike goes to Iraq to try to figure out what it's like to be a private citizen working in the middle of a war zone.]]></description>
+            <pubDate>Fri, 04 Jun 2004 12:00:00 -0400</pubDate>
+            <guid isPermaLink="false">266</guid>
+            <enclosure url="https://stream.thisamericanlife.org/266/01imTN5C3EZeJR9lwSs1SWGQns6Y9D5zzS6tOSJ5H4I/266.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/266.jpg" />
+            <itunes:subtitle><![CDATA[Nancy Updike goes to Iraq to try to figure out what it's like to be a private citizen working in the middle of a war zone.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Nancy Updike goes to Iraq to try to figure out what it's like to be a private citizen working in the middle of a war zone.]]></itunes:summary>
+        </item>
+        <item>
+            <title><![CDATA[360: Switched at Birth]]></title>
+            <link>https://www.thisamericanlife.org/360/switched-at-birth</link>
+            <description><![CDATA[Two baby girls born in a small-town hospital are accidentally switched, and go home with the wrong families.]]></description>
+            <pubDate>Fri, 25 Jul 2008 12:00:00 -0400</pubDate>
+            <guid isPermaLink="false">360</guid>
+            <enclosure url="https://stream.thisamericanlife.org/360/TVQ6aCdWbiv9llbOIv6EIyzLGxevIOtIR_jgsvg5vQU/360.mp3" type="audio/mpeg" />
+            <itunes:author><![CDATA[This American Life]]></itunes:author>
+            <itunes:image href="http://assets.thisamericanlife.co/images/360.jpg" />
+            <itunes:subtitle><![CDATA[Two baby girls born in a small-town hospital are accidentally switched, and go home with the wrong families.]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Two baby girls born in a small-town hospital are accidentally switched, and go home with the wrong families.]]></itunes:summary>
         </item>
     </channel>
 </rss>
